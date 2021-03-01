@@ -1,19 +1,20 @@
 # optics-document
 - なかなか理論と数値計算のアルゴリズムがまとまっていないので、ドキュメントを書くことにする
 
-## 回折積分
+## 波動場の伝播
 
-- 理論
+- [スカラー回折理論](diffraction/numerical_calculation.md)
     - [Helmholtz-Kirhihoffの積分定理]()
     - [Railey-Sommerfeldの公式とその近似]()
     - [回折限界]()
 
-- 数値計算
-    - [Fraunhofer回折]()
-    - [Fresnel回折]()
-    - [角スペクトル法(平面波展開法)]()
-    - [Shifted (Scaled) Fresnel回折]()
-    - [Shifted (Scaled) 角スペクトル法]()
+- [フーリエ変換](diffraction/numerical_calculation.md)
+- [数値計算篇](diffraction/numerical_calculation.md)
+    - 角スペクトル法
+    - Fraunhofer回折
+    - Fresnel回折
+    - Shifted (Scaled) Fresnel回折
+    - Shifted (Scaled) 角スペクトル法
 
 ## フーリエ変換
 
